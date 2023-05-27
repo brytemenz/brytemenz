@@ -8,14 +8,14 @@
 
 As a highly skilled and versatile Software Engineer, I bring a wealth of experience in designing, developing, and testing complex software systems. With proficiency in languages such as  Python, PHP, and others, I have a track record of successfully delivering software solutions that meet or exceed customer expectations. I have a passion for keeping up-to-date with the latest technologies and trends in the industry and enjoy collaborating with other developers to create high-quality and scalable software. If you're looking for a Software Engineer with a strong work ethic, excellent problem-solving skills, and a passion for delivering exceptional software, then I'd love to hear from you.
 
-## Skills
+<!-- ## Skills
 
 - **Front-end Development:** HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js
 - **Back-end Development:** Python, Django, PHP, Laravel
 - **Database:** MySQL, PostgreSql
 - **UI/UX Design:** Adobe Illustrator, Adobe XD
 - **Version Control:** Git, GitHub
-- **Deployment:** Heroku, Netlify, Vercel
+- **Deployment:** Heroku, Netlify, Vercel -->
 
 
 ## Contact Me
