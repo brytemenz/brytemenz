@@ -1,9 +1,5 @@
 # <div align="center">👋 Hi, I'm Bright Amoako Mensah</div>
 
-<div align="center">
-  <img src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010127.jpg?w=1060&t=st=1684837508~exp=1684838108~hmac=10f5c052e9a5bed76bcffd913f611d81a344231cc8b4085103c4e54a6eaaed55" alt="Profile Picture" width="200" height="200">
-</div>
-
 ---
 
 ## 💡 About Me  
